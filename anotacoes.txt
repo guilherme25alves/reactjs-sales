@@ -21,3 +21,7 @@ SITES REFERENCIAS USADAS DE
 https://react-icons.github.io/react-icons/
 https://styled-components.com/
 https://recharts.org/en-US/guide/installation
+
+# Snippets VSCODE React 
+
+https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
