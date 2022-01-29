@@ -1,14 +1,16 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import { AiOutlineAppstore } from "react-icons/ai";
-import { AiOutlineShoppingCart } from "react-icons/ai";
-import { AiOutlineShopping } from "react-icons/ai";
-import { AiOutlineLogout } from "react-icons/ai";
-import { AiOutlineMessage } from "react-icons/ai";
-import { AiOutlinePieChart } from "react-icons/ai";
-import { AiOutlineSetting } from "react-icons/ai";
-import { AiOutlineUsergroupAdd } from "react-icons/ai";
-import { AiFillCodeSandboxCircle } from "react-icons/ai";
+import {
+  AiOutlineAppstore,
+  AiOutlineShoppingCart,
+  AiOutlineShopping,
+  AiOutlineLogout,
+  AiOutlineMessage,
+  AiOutlinePieChart,
+  AiOutlineSetting,
+  AiOutlineUsergroupAdd,
+  AiFillCodeSandboxCircle,
+} from "react-icons/ai";
 import { SiAccusoft } from "react-icons/si";
 
 export default () => {
