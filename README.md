@@ -3,7 +3,7 @@
 Projeto desenvolvido como forma de estudo da tecnologia React Js. Foi usado como referência para o desenvolvimento o vídeo do canal AAE IdeaPro.
 Dashboard com um resumo do que seria o resultado de vendas e informações complementares.
 
-![Preview Dashboard](/assets/result.PNG "Preview Dashboard Image")
+![Preview Dashboard](/src/assets/result.PNG "Preview Dashboard Image")
 
 ## Referências Técnicas
 
